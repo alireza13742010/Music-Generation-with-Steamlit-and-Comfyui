@@ -38,9 +38,13 @@ Sampler selection
 
 # Generated Audio
 ├── rock, hip - hop, orchestral, bass, drums, electric guitar, piano, synthesizer, violin, viola, cello, fast, energetic, motivational, inspirational, empowering
+
+
 [ComfyUI_00001_.mp3](https://github.com/user-attachments/files/22440391/ComfyUI_00001_.mp3)
 
 ├── Cuban music, salsa, son, Afro-Cuban, traditional Cuban
+
+
 [ComfyUI_00003_.mp3](https://github.com/user-attachments/files/22440403/ComfyUI_00003_.mp3)
 
 
